@@ -1,0 +1,9 @@
+com\microws\entity\SubErrors.class
+com\microws\Application.class
+com\microws\config\SecurityConfig.class
+com\microws\controller\FolioController.class
+com\microws\entity\Folio.class
+com\microws\entity\SolicitarFolio.class
+com\microws\entity\ApiResponse.class
+com\microws\service\FolioService.class
+com\microws\entity\ApiError.class
